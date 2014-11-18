@@ -33,9 +33,9 @@ delay(100);
 DisplaySlate();
   }
 }
-
+  
 void beep()
 {
   Tone_Start(18182,100);
-  //delay(45);
+  delay(45);
 }
